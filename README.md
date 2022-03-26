@@ -1,7 +1,7 @@
 # Manage-Multiple-Hosting-Service
 This Project help you for managing and administrating your hosting service based on cpanel.
 
-** make sure that you be in `Manage-Multiple-Hosting-Service` directory then run any command **
+**make sure that you be in `Manage-Multiple-Hosting-Service` directory then run any command**
 
 ## 1. Start tools:
 fist you should fill `destination.list` file for specify destinations (hosting machines). make sure that every hosting machine available from your server and authenticate with SSH-KEY.
